@@ -1,0 +1,17 @@
+
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ùĞùÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÎœÆüÿÿÿÿ
+4squid:S2097"Add a type test to this method.(ÜÑã
+osquid:S1067"ZReduce the number of conditional operators (4) used in the expression (maximum allowed 3).(éÄ¹
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(åÄ²¢
+Lsquid:S1213"8Move this variable to comply with Java Code Conventions.(ˆ×¨,
+lsquid:S00116"QRename this field "row_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(× òŞşÿÿÿÿ
+_squid:S1132"JMove the "null" string literal on the left side of this string comparison.(ÜÕ—¦
+esquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(Ìì‘şÿÿÿÿ
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(­”öº
+gsquid:S1871"MThis branch's code block is the same as the block for the branch on line 115.(œËÿÿÿÿÿ
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(á±üÿÿÿÿ
+\squid:S2259"GNullPointerException might be thrown as 'contactModal' is nullable here(éÄ¹
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(ÙÚïæ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ùĞùÿÿÿÿ

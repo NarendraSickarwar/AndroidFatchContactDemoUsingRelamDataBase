@@ -1,0 +1,21 @@
+
+ksquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œùŞ0
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Äú·
+psquid:S1132"[Move the "vnd.sec.contact.phone" string literal on the left side of this string comparison.(…ëÏ«
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÄÉ£
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üûÂÌ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“ë÷Áøÿÿÿÿ
+vsquid:S1188"\Reduce this anonymous class number of lines from 30 to at most 20, or make it a named class.(áàñ¼øÿÿÿÿ
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(…ëÏ«
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°€Šõ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚ˆÈ´ıÿÿÿÿ
+Lsquid:S1172"7Remove this unused method parameter "countryPhoneCode".(»ó¶ì
+…squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Äú·
+m
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(“ıÛ
+a
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(öğ•m
+g
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ú¤«ûÿÿÿÿ
+esquid:S1132"PMove the "com.google" string literal on the left side of this string comparison.(…ëÏ«

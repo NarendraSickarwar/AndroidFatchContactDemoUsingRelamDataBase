@@ -1,0 +1,19 @@
+About application:
+
+
+this application demo is for syncing of contacts from contact list using the new database "REALM"
+realm data base is faster then sqlite database and more easier to use one of its feature on change any where int able
+and implement listener to the table .very thread safe
+
+<<----------------->><<--------------------->><<--------------------------->><<------------------------->><<------------------>>
+
+Demo application logic ====>><<====
+
+
+ ====> fetch contact from contact list first time and add all the contacts in recent contact table.
+
+ ====> run a service for registering observer in service class and call a listener for updating contact tables
+
+ ====>  history contact add in the history table.
+
+ ====> showing data in fragments.

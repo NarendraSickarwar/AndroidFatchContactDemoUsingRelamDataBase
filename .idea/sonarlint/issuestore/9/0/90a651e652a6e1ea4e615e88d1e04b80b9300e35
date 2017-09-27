@@ -1,0 +1,22 @@
+
+Ysquid:S1444"EMake this "public static requestingPermissionFromSetting" field final(‡’¡;
+Osquid:S1118":Add a private constructor to hide the implicit public one.(ÎÎÏæ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–¼É
+9squid:S1166"%Either log or rethrow this exception.(Ö¤ßI
+>squid:S00108")Either remove or fill this block of code.(Ö¤ßI
+g
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(îÂğûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„ûó±ûÿÿÿÿ
+osquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(ŞÎÊ°üÿÿÿÿ
+–"squid:ClassVariableVisibilityCheck"kMake requestingPermissionFromSetting a static final constant or non-public and provide accessors if needed.(‡’¡;
+osquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(¹®››üÿÿÿÿ
+osquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(öêÙ‡ıÿÿÿÿ
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(ææƒ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“îòş
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Lsquid:S1213"8Move this variable to comply with Java Code Conventions.(‡’¡;
+Isquid:S1066"/Merge this if statement with the enclosing one.(îÂğûÿÿÿÿ
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(€À€…
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ææƒ
+jsquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(¯î¯Ò
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£çÔ‚øÿÿÿÿ

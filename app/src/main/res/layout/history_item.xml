@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/round_drawable"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/titelName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Name:"
+            android:textColor="@color/color_black" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/titelName"
+            android:text="gdfsgfdg"
+            android:textColor="@color/color_black" />
+
+        <TextView
+            android:id="@+id/titelNumber"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/titelName"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Number:"
+            android:textColor="@color/color_black" />
+
+        <TextView
+            android:id="@+id/number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/titelName"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/titelNumber"
+            android:text="gdfsgfdg"
+            android:textColor="@color/color_black" />
+
+        <TextView
+            android:id="@+id/titelStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/titelNumber"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Status:"
+            android:textColor="@color/color_black" />
+
+        <TextView
+            android:id="@+id/status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/titelNumber"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/titelStatus"
+            android:text="gdfsgfdg"
+            android:textColor="@color/color_black" />
+    </RelativeLayout>
+</RelativeLayout>

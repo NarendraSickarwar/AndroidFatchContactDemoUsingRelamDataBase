@@ -1,0 +1,7 @@
+
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(≈ã∞–
+ñsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(å‹ùÉ
+ñsquid:S1319"ÄThe type of the "contactModalArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(å‹ùÉ
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(™ˆŒ†8·îÕ∑Ÿ+
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(≈ã∞–
+Isquid:S1066"/Merge this if statement with the enclosing one.( ß†É˚ˇˇˇˇ
